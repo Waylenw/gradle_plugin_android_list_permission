@@ -1,0 +1,1 @@
+# gradle_plugin_android_list_permission
