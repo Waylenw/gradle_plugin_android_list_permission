@@ -30,6 +30,7 @@ Android日常开发中在引入第三方SDK的时候会引入一些不必要的�
         maven { url "https://dl.bintray.com/waylenw/maven" }
     }
     dependencies {
+     //添加如下代码
         classpath 'com.android.list.permission:gradle-plugin:1.0.0'
     }
 }
@@ -37,6 +38,7 @@ Android日常开发中在引入第三方SDK的时候会引入一些不必要的�
 
 在主项目build.gradle添加的引用插件
 ```
+ //添加如下代码
 apply plugin: 'android-permission'
 ```
 在主项目的创建一下permissionList.txt文件，内容放置你需要剔除的权限,格式必须是一行一个`android.permission.xxxxxx`
