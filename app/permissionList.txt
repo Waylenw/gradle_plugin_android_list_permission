@@ -1,0 +1,5 @@
+android.permission.CHANGE_NETWORK_STATE
+#android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
