@@ -50,7 +50,7 @@ android.permission.WAKE_LOCK
 如需要补充注释,或者注释掉某个权限的剔除列表,可在开头加上使用`#`
 # License
 ```
-Copyright 2017 waylenw, Inc.
+Copyright 2019 waylenw, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
