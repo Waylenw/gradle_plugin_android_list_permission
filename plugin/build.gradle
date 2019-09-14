@@ -1,6 +1,7 @@
 apply plugin: 'groovy'
 apply plugin: 'signing'
-apply from: 'bintray.gradle'
+apply plugin: 'maven'
+//apply from: 'bintray.gradle'
 
 
 dependencies {
