@@ -47,7 +47,7 @@ android.permission.VIBRATE
 android.permission.FLASHLIGHT
 android.permission.WAKE_LOCK
 ```
-如需要补充注释,或者注释掉某个权限的剔除列表,可在开头加上使用`#`
+如需要补充注释,或者注释掉某个权限的剔除列表,可在开头加上`#`使用
 # License
 ```
 Copyright 2019 waylenw, Inc.
