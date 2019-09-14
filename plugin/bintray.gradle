@@ -64,9 +64,9 @@ def getPomSignature = {
     return project.tasks.signPom.signatureFiles.collect{ it }[0]
 }
 
-def siteUrl = 'https://github.com'
-def gitUrl = 'https://github.com'
-def issueUrl = 'https://github.com'
+def siteUrl = 'https://github.com/Waylenw'
+def gitUrl = 'https://github.com/Waylenw/gradle_plugin_android_list_permission'
+def issueUrl = 'https://github.com/Waylenw/gradle_plugin_android_list_permission'
 
 install {
     repositories.mavenInstaller {

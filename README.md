@@ -30,7 +30,7 @@ Android日常开发中在引入第三方SDK的时候会引入一些不必要的�
         maven { url "https://dl.bintray.com/waylenw/maven" }
     }
     dependencies {
-        classpath 'com.android.list.permission:gradle-plugin:1.0.2'
+        classpath 'com.android.list.permission:gradle-plugin:1.0.0'
     }
 }
  ```
